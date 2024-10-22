@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dda1a48-247f-4d28-9671-8a82af5668c7" name="更改" comment="upload">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/r-aint.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/static/face.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/static/index/disco-church-wallpaper-4k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/static/index/disco-seafort-wallpaper-4k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/static/index/disco-skyline-wallpaper-4k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/static/index/disco-thoughtcabinet-wallpaper-4k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/static/index/index.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.butterfly.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.butterfly.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,23 +24,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "r-aint"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;r-aint&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:r-aint/r-aint.github.io.git",
-    "accountId": "63c6c6c3-422d-4dcc-98d9-2ddf01651703"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:r-aint/r-aint.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;63c6c6c3-422d-4dcc-98d9-2ddf01651703&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2nk6TShlkPke4Mm5Ukxx12yvcVp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +53,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Work/blog/public/img",
+    "last_opened_file_path": "C:/Work/blog/static/index",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,11 +65,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Work\blog\static\index" />
       <recent name="C:\Work\blog\public\img" />
       <recent name="C:\Work\blog\public\img\index" />
       <recent name="C:\Work\blog" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Work\blog\source" />
+      <recent name="C:\Work\blog\static\index" />
+      <recent name="C:\Work\blog\static" />
       <recent name="C:\Work\blog\public\img" />
     </key>
   </component>
@@ -128,6 +141,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
