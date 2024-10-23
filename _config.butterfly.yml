@@ -62,10 +62,10 @@ avatar:
 disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img: /static/index/disco-thoughtcabinet-wallpaper-4k.png
+default_top_img:  /static/index/disco-thoughtcabinet.png
 
 # The banner image of index page
-index_img: /static/index/index.png
+index_img: /static/index/disco-thoughtcabinet.png
 
 # The banner image of archive page
 archive_img:
@@ -79,7 +79,7 @@ tag_img:
 tag_per_img:
 
 # Note: category page, not categories page
-category_img: 
+category_img:
 
 # The banner image of category page, you can set the banner image for each category
 # Format:
@@ -164,7 +164,7 @@ subtitle:
     fadeOutDelay: 500
 
     showCursor: true
-    cursorChar: _
+    cursorChar: 🖋️
     autoInsertCss: true
     loop: true
 #    loopCount: Infinity
