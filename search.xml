@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>记事本</title>
+      <link href="/2024/10/26/%E8%AE%B0%E4%BA%8B%E6%9C%AC/"/>
+      <url>/2024/10/26/%E8%AE%B0%E4%BA%8B%E6%9C%AC/</url>
+      
+        <content type="html"><![CDATA[<h1 id="记事本"><a href="#记事本" class="headerlink" title="记事本"></a>记事本</h1><blockquote><p>记事本就是记事本，记需要记在记事本上的事情。</p></blockquote><h2 id="软件"><a href="#软件" class="headerlink" title="软件"></a>软件</h2><h3 id="IDM"><a href="#IDM" class="headerlink" title="IDM"></a>IDM</h3><blockquote><p>IDM 是一款下载工具，可以加速下载，支持断点续传。</p></blockquote><p>激活工具（需要管理员权限）</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">irm massgrave.dev/ias | iex </span><br></pre></td></tr></table></figure><p>irm 是 Invoke-RestMethod 的简写，用于通过 HTTP 或 HTTPS 协议执行 REST 请求。这个命令可以用于从 Web 服务获取数据。</p><p>|是管道符 把左边的命令输出作为右边命令的输入</p><p>iex  是 Invoke-Expression 的缩写这个命令把获取的字符串作为 命令&#x2F;表达式 执行 。</p><h3 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a>Typora</h3><blockquote><p>Typora 是一款 Markdown 编辑器，支持实时预览。</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 记事本 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2024/10/21/hello-world/"/>
       <url>/2024/10/21/hello-world/</url>
